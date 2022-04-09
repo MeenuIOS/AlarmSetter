@@ -10,7 +10,7 @@
     "lint": "eslint ."
   },
   "dependencies": {
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "moment-timezone": "^0.5.28",
     "react": "16.11.0",
     "react-moment": "^0.9.7",
